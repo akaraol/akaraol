@@ -6,9 +6,9 @@
   </a>
 </p>
 
-I usually use Github for version control or storing my projets. But in future, i would like to contribute open source or help other poeple. That is one of my life goals, joining the big cause 	:fist_right::fist_left:
+I usually use Github for version control or storing my projets. But in future, i would like to contribute open source or help other poeple. That is one of my life goals, joining the big cause 	:handshake:
 
-📫 How to reach me :point_right: : abdullah0karaogul@gmail.com
+📫 How to reach me :point_right:  abdullah0karaogul@gmail.com
 <!--
 **akaraol/akaraol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
