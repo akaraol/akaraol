@@ -9,7 +9,7 @@
 I usually use Github for version control or storing my projets. 
 
 📫 How to reach me :point_right:  abdullah.karaogul34@gmail.com
-                                   https://www.linkedin.com/in/abdullahkaraogul
+                                   
 <!--
 **akaraol/akaraol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
